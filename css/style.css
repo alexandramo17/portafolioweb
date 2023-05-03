@@ -1,0 +1,50 @@
+*{ box-sizing: border-box;}
+
+@font-face {
+    font-family: Roasting Script ;
+    src: url(../tipografias/Roasting\ Script.woff);
+}
+
+body {
+    padding: 0;
+    background-color: #C7859E;
+    
+}
+.container{
+    width: 100%;
+    height: 100vh;
+  }
+.empanada{
+    border: 20px 20px solid #7C144D;
+    border-radius: 5px;
+}
+.btn {
+    font-family: Roasting Script;
+    background-color: #7C144D;
+    color: aliceblue;
+    border: white;
+}
+.form-control {
+    background-color: #8D2341;
+    color: aliceblue;
+}
+a {
+    color: #64130F;
+    font-family: Roasting Script;
+    font-size: 2rem !important;
+}
+.carousel-inner {
+    background-color: #7C144D;
+}
+.iconos {
+    padding: 40px;
+}
+.footer{
+    padding: 20px;
+}
+.footer p {
+    text-align: center;
+}
+.instagram {
+    width: 10%;
+  }
